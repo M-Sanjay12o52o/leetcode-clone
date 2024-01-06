@@ -1,1 +1,5 @@
-1:00:52
+2:13
+
+issues:
+reset email is being sent to all email. (should send to email signed up for the application)
+the table and the table content is not aligned.
